@@ -1,8 +1,8 @@
 ### Links to scientific tools
 
-Links to several public command line utilities.
+Several command line utilities have been made public so far.
 
-| Tool        | Links                                                       | Description                                           |
+| CLI         | Links                                                       | Description                                           |
 | ----------- | ----------------------------------------------------------- | ----------------------------------------------------- |
 | `mesh2vtk`* | [mesh2vtk](https://github.com/repositony/mesh2vtk)          | Convert any legacy MCNP mesh into a VTK file          |
 | `mesh2ww`*  | [mesh2ww](https://github.com/repositony/mesh2ww)            | Convert any legacy MCNP mesh to MAGIC weight windows  |
@@ -15,3 +15,10 @@ Links to several public command line utilities.
 (*) _HDF5 is also supported, I just need to figure out how to bundle it into the pre-compiled executables_
 
 ### Assorted side projects
+
+Not all that useful, but could be interesting to people.
+
+| Links                                                            | Description                                              |
+| ---------------------------------------------------------------- | -------------------------------------------------------- |
+| [vscode_mcnp](https://github.com/repositony/vscode_mcnp)         | Basic MCNP syntax highlighting/code completion extension |
+| [multiplayer_bot](https://github.com/repositony/multiplayer_bot) | Rusty Discord bot for managing multiplayer game servers  |
