@@ -20,6 +20,6 @@ Not all that useful to people, but could be of interest.
 
 | Links                                                                   | Description                                              |
 | ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| [ntools doc](https://repositony.github.io/ntools_doc/ntools/index.html) | Public API docs for core `ntools` library (unreleased)   |
+| [ntools docs](https://repositony.github.io/ntools_doc/ntools/index.html) / [repo](https://github.com/repositony/ntools_doc) | Public API docs for core `ntools` library (unreleased)   |
 | [vscode_mcnp](https://github.com/repositony/vscode_mcnp)                | Basic MCNP syntax highlighting/code completion extension |
 | [multiplayer_bot](https://github.com/repositony/multiplayer_bot)        | Rusty Discord bot for managing multiplayer game servers  |
